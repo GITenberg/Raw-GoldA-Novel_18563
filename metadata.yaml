@@ -1,0 +1,38 @@
+_repo: Raw-GoldA-Novel_18563
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rowe, Clarence H. (Clarence Herbert)
+    birthdate: 1878
+    deathdate: 1930
+    gutenberg_agent_id: '8113'
+    url: http://www.gutenberg.org/2009/agents/8113
+covers:
+- cover_type: archival
+  image_path: 18563-h/images/imgcover.jpg
+creator:
+  author:
+    agent_name: Sinclair, Bertrand W.
+    aliases:
+    - Sinclair, Bill
+    - Sinclair, Bertrand William
+    - Sinclair, William Brown
+    birthdate: 1881
+    deathdate: 1972
+    gutenberg_agent_id: '3891'
+    url: http://www.gutenberg.org/2009/agents/3891
+description: Cover -- Contents.
+gutenberg_issued: '2006-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18563'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcc 'PS'
+- !lcsh 'North West Mounted Police (Canada) -- Fiction'
+title: 'Raw Gold: A Novel'
+url: http://www.gutenberg.org/ebooks/18563
